@@ -12,22 +12,10 @@ QQ：1652090480
 ### 2019-2021 西安建筑科技大学 建筑与土木工程硕士
 
 # 学术论文
-- 	郑山锁, 陈嘉晨, 郑淏, 等. 酸雨侵蚀弯曲破坏钢筋混凝土柱抗震性能试验研究[J]. 中南大学学报(自然科学版).
+2021
+- 	Zhengshansuo, Chenjiachen, et al. Experimental research on seismic behaviors of corroded reinforced concrete column failed in flexure mode subjected to acid rain exposure[J]. Journal of Central South University(Science and Technology)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chenjiachen0/chenjiachen0.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
