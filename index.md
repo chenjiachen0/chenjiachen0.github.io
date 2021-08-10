@@ -1,22 +1,18 @@
-## Welcome to GitHub Pages
+# 陈嘉晨（Jiachen Chen)
+通讯地址：西安市碑林区雁塔中路13号
 
-You can use the [editor on GitHub](https://github.com/chenjiachen0/chenjiachen0.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+电子邮件：chenjiachen00@163.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+QQ：1652090480
 
-### Markdown
+# 教育背景
+### 2009-2015 娄底三中
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 2015-2019 湖南城市学院 土木工程本科
+### 2019-2021 西安建筑科技大学 建筑与土木工程硕士
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+# 学术论文
+- 	郑山锁, 陈嘉晨, 郑淏, 等. 酸雨侵蚀弯曲破坏钢筋混凝土柱抗震性能试验研究[J]. 中南大学学报(自然科学版).
 
 1. Numbered
 2. List
