@@ -12,7 +12,7 @@ QQ：1652090480
 
 # 学术论文
 2021
-Chenjiachen, et al. Experimental research on seismic behaviors of corroded reinforced concrete column failed in bending subjected to acid rain exposure[J].Journal of Central South University(Science and Technology), 2021,52(10):3680-3688.
+     Chenjiachen, et al. Experimental research on seismic behaviors of corroded reinforced concrete column failed in bending subjected to acid rain exposure[J].Journal of Central South University(Science and Technology), 2021,52(10):3680-3688.
 
 
 
