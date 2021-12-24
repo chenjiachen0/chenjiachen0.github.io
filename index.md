@@ -12,7 +12,7 @@ QQ：1652090480
 
 # 学术论文
 2021
-     Chenjiachen, et al. Experimental research on seismic behaviors of corroded reinforced concrete column failed in bending subjected to acid rain exposure[J].Journal of Central South University(Science and Technology), 2021,52(10):3680-3688.
+     郑山锁, 陈嘉晨, 郑淏, 等.  酸雨侵蚀弯曲型破坏钢筋混凝土柱抗震性能试验研究[J]. 中南大学学报(自然科学版),2021, 52(10): 3680-3688.
 
 
 
